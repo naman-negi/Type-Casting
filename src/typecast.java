@@ -21,6 +21,7 @@ public class typecast {
 		char x = (char) y;
 		return x;
 	}	
+	
 }
 
 //The Following class explains Explicit Type Casting
