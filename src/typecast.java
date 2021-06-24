@@ -1,4 +1,3 @@
-
 public class typecast {
 
 	public int stringconvert(String y, int raddix) {
@@ -21,6 +20,18 @@ public class typecast {
 		
 		char x = (char) y;
 		return x;
+	}	
+}
+
+//The Following class explains Explicit Type Casting
+class explicitypecast{
+	public double intconvert2(int x) {
+		double y=x;
+		return y;
 	}
 	
+	public int convertchar(char x) {
+		int y=x;
+		return y;
+}
 }
