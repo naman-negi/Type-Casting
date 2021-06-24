@@ -19,7 +19,7 @@ public class typecast {
 	
 	public char intconvert(int y) {
 		
-		char x = 
+		char x = (cha) y;
 	}
 	
 }
