@@ -4,7 +4,7 @@ public class mainfunction {
 	public static void main(String args[]) {
 		
 		int x1=65;
-		double x2=1.12345678910;
+		double x2=1.1234567891;
 		long x3;
 		String x4="444";
 		int raddix =16; 
