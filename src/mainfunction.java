@@ -1,7 +1,7 @@
 
 public class mainfunction {
 
-	public static void main() {
+	public static void main(String args[]) {
 		
 		int x1=65;
 		double x2=1.12345678910;
@@ -9,7 +9,7 @@ public class mainfunction {
 		String x4="444";
 		int raddix =16; 
 		
-		typecast calling = new typecast ;
+		typecast calling = new typecast() ;
 		
 		System.out.println("Original input in int:"+x1);
 		System.out.println("Converted Output to char:"+calling.intconvert(x1)); 

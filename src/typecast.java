@@ -9,7 +9,7 @@ public class typecast {
 	public long dblconvert(double y) {
 		
 		long x = (long) y;
-		return x
+		return x;
 	}
 	public float dblconvert2(double y) {
 		
@@ -19,7 +19,7 @@ public class typecast {
 	
 	public char intconvert(int y) {
 		
-		char x = (cha) y;
+		char x = (char) y;
 		return x;
 	}
 	
